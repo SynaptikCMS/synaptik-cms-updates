@@ -89,6 +89,10 @@
         "reviews": {
             "version": "1.0.2",
             "download_url": "https://synaptikcms.com/files/plugins/reviews-plugin-synaptikcms.zip"
+        },
+        "wp-importer": {
+            "version": "1.0.0",
+            "download_url": "https://synaptikcms.com/files/plugins/wp-importer-plugin-synaptikcms.zip"
         }
     }
 }
