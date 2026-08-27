@@ -2,7 +2,7 @@
     "themes": {
         "default": {
             "version": "1.0.2",
-            "download_url": "https://synaptikcms.com/files/themes/mono.zip"
+            "download_url": "https://synaptikcms.com/files/themes/default.zip"
         },
         "atrium": {
             "version": "1.0.3",
