@@ -1,7 +1,7 @@
 {
-    "version": "1.4.3",
-    "released": "2026-08-29",
-    "notes": "Child themes, full page cache, faster loading, improved preview, fixes.",
+    "version": "1.4.4",
+    "released": "2026-09-02",
+    "notes": "Improvements and fixes.",
     "changelog_url": "https://github.com/synaptikcms/synaptik-cms/blob/main/CHANGELOG.md",
     "download_url": "https://synaptikcms.com/files/releases/synaptikcms-latest.zip"
 }
